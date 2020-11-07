@@ -1,4 +1,4 @@
-# datascience-resources
+# Winnie's list of data science resources
 - keep track of data science resources that I like and consult frequently
 
 ## Data Science Learning Path
