@@ -12,6 +12,7 @@
 - Prediction Intervals: https://online.stat.psu.edu/stat501/lesson/3/3.3
 
 ## Machine Learning Basics
+- Linear Algebra Geometric Interpretation: https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 - Georgia Tech ISYE6501 by Joel Sokol 
 - AB Testing:
 
