@@ -37,6 +37,8 @@
 
 ## MLOps
 - Docker, Kubernetes, Flask: https://www.youtube.com/playlist?list=PL3N9eeOlCrP5PlN1jwOB3jVZE6nYTVswk
+- [Python for Devops (Book)](https://www.oreilly.com/library/view/python-for-devops/9781492057680/)
+
 
 ## Machine Learning System Design
 - https://github.com/chiphuyen/machine-learning-systems-design
