@@ -21,6 +21,8 @@
 - Numpy:https://s3.amazonaws.com/dq-blog-files/numpy-cheat-sheet.pdf
 
 ## Model Interpretability
+- Book: https://christophm.github.io/interpretable-ml-book/
+- On LIME: https://homes.cs.washington.edu/~marcotcr/blog/lime/
 
 ## Natural Language Processing
 - Juraksky's material on NLP: https://web.stanford.edu/~jurafsky/slp3/ 
