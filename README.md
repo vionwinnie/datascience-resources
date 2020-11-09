@@ -42,4 +42,7 @@
 - https://github.com/chiphuyen/machine-learning-systems-design
 
 ## Machine Learning Interviews Prep
+- I follow several people on LinkedIn who post interesting content:
+1. Dan Lee: https://www.linkedin.com/in/danleedata/
+2. Eric Webter on SQL: https://www.linkedin.com/in/eric-weber-060397b7/
 
