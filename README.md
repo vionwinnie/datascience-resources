@@ -29,9 +29,15 @@
 - Juraksky's material on NLP: https://web.stanford.edu/~jurafsky/slp3/ 
 - NLP 2012 Dan Jurafsky and Chris Manning Lectures: https://www.youtube.com/playlist?list=PLoROMvodv4rOFZnDyrlW3-nI7tMLtmiJZ
 - ISYE 7650: https://www.cc.gatech.edu/classes/AY2020/cs7650_spring/
+- Coursera NLP Specialization: https://www.coursera.org/specializations/natural-language-processing#courses
 
 ## Big Data Mining
 - Mining Massive Dataset: http://www.mmds.org/
+
+## Advanced Machine Learning / Bayesian
+- https://deepbayes.ru/2019/
+- https://smiles.skoltech.ru/school
+
 
 ## Spark / Distributed Computing
 - Excellent videos for overall architecture: https://www.youtube.com/watch?v=AsIx95xHOIM&list=PLkz1SCf5iB4dXiPdFD4hXwheRGRwhmd6K
@@ -41,7 +47,6 @@
 ## MLOps
 - Docker, Kubernetes, Flask: https://www.youtube.com/playlist?list=PL3N9eeOlCrP5PlN1jwOB3jVZE6nYTVswk
 - [Python for Devops (Book)](https://www.oreilly.com/library/view/python-for-devops/9781492057680/)
-
 
 ## Machine Learning System Design
 - https://github.com/chiphuyen/machine-learning-systems-design
