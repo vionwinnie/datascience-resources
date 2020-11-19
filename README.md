@@ -50,6 +50,7 @@
 
 ## Machine Learning System Design
 - https://github.com/chiphuyen/machine-learning-systems-design
+- Stanford MLSys Seminar: https://www.youtube.com/channel/UCzz6ructab1U44QPI3HpZEQ
 
 ## Machine Learning Interviews Prep
 - I follow several people on LinkedIn who post interesting content:
